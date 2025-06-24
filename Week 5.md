@@ -31,7 +31,7 @@ In `index.css`:
 
 * Add **20px of padding on the top and bottom, and 15px on the left and right**  
 * Add **24px of space below it** using margin  
-* Add a **2px solid border** around the entire nav
+* Add a **2px solid border** of color **#3498db** around the entire nav
 
 ### **Task 4: Format the Table**
 
@@ -45,17 +45,16 @@ In `index.css`:
 ### **Task 5: Enhance the Profile Image**
 
 Target the `.profile-img` class.  
-In `index.htm`: remove the width attribute from profile image.  
+In `index.html`: remove the width attribute from profile image.  
 In `index.css`:
 
 * Set the **image width to 120px**  
 * Add **8px of padding** inside the image  
-* Replace the top margin with **20px of margin on all sides**, and center it using `auto` for the left and right margins
 
 ### **Task 6: Improve the Social Icons**
 
 Target the `.social-icon` class.  
-In `index.htm`: remove the width attribute from social icons.  
+In `index.html`: remove the width attribute from social icons.  
 In `index.css`:
 
 * Add **10px of padding** inside each icon  
@@ -88,3 +87,4 @@ In `index.css`:
   * Set the background color to **`#3498db`**  
   * Set the text color to **white**  
   * Make the text **bold**
+  * Set the width to **300px**
